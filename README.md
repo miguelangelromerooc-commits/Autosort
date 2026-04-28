@@ -115,3 +115,9 @@ expected classification.
 
 ## License
 MIT License. See LICENSE for details.
+
+## Acknowledgements
+
+The anonymized teaching practice documents included in the `example_data/` folder 
+are based on teaching materials developed by academic technical staff from the NTIC area 
+at Universidad de Sonora, who were responsible for designing and implementing these practices.
