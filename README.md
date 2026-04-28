@@ -88,6 +88,19 @@ The software will:
 - Move each file to its corresponding category folder
 - Log results into Google Sheets
 
+## Example Data
+
+This repository includes a set of anonymized teaching practice documents 
+located in the `example_data/` folder, along with their expected classifications 
+(`labels.csv`).
+
+These examples are provided to facilitate verification of the classification 
+workflow and to support reproducibility of the proposed approach.
+
+Each document represents a typical teaching activity aligned with the categories 
+used in the system, allowing users to compare the predicted results with the 
+expected classification.
+
 ## Reproducibility and extensibility
 
 - Keyword dictionaries and category definitions can be adapted to other educational domains.
